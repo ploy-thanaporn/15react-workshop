@@ -5,7 +5,6 @@ Source Code
   <li><a href ="https://github.com/ploy-thanaporn/react-workshop-form" >Form Validation</a></li>
   <li><a href ="https://github.com/ploy-thanaporn/02-react-workshop-quiz-app" >Quiz App</a></li>
   <li><a href ="https://github.com/ploy-thanaporn/03-react-workshop-theme" >Theme-Mode</a></li>
-  <li><a href ="" >Dark-Mode</a></li>
   <li><a href ="" >Accordion</a></li>
   <li><a href ="" >แอพแปลงสกุลเงิน (Currency Converter)</a></li>
   <li><a href ="" >Navigation</a></li>
