@@ -13,7 +13,7 @@ Source Code
   <li><a href ="https://github.com/ploy-thanaporn/09-react-workshop-calculator" >เครื่องคิดเลข</a></li>
   <li><a href ="https://github.com/ploy-thanaporn/10-react-workshop-searchFilter" >ระบบค้นหาข้อมูล (Search Filter)</a></li>
   <li><a href ="https://github.com/ploy-thanaporn/11-react-workshop-dynamicDropdown" >Dynamic Dropdown</a></li>
-  <li><a href ="" >Infinite Scroll Photo</a></li>
+  <li><a href ="https://github.com/ploy-thanaporn/11-react-workshop-InfiniteScrollPhoto" >Infinite Scroll Photo</a></li>
   <li><a href ="" >ระบบหลายเลขหน้า (Pagination)</a></li>
   <li><a href ="" >Weather API</a></li>
   <li><a href ="" >ระบบตะกร้าสินค้า (Shopping Cart)</a></li>
