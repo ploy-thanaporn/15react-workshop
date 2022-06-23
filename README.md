@@ -15,7 +15,7 @@ Source Code
   <li><a href ="https://github.com/ploy-thanaporn/11-react-workshop-dynamicDropdown" >Dynamic Dropdown</a></li>
   <li><a href ="https://github.com/ploy-thanaporn/12-react-workshop-InfiniteScrollPhoto" >Infinite Scroll Photo</a></li>
   <li><a href ="https://github.com/ploy-thanaporn/13-react-workshop-pagiantion" >ระบบหลายเลขหน้า (Pagination)</a></li>
-  <li><a href ="" >Weather API</a></li>
+  <li><a href ="https://github.com/ploy-thanaporn/14-react-workshop-weatherApi" >Weather API</a></li>
   <li><a href ="" >ระบบตะกร้าสินค้า (Shopping Cart)</a></li>
  </ul>
 
